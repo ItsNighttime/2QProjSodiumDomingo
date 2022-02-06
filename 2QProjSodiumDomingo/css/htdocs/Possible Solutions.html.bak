@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Possible Solutions to World Hunger</title>
+		<link rel="stylesheet" href="styleforsolutions.css">
+	</head>
+<body>
+	<header>
+		<img class = "imgborder" src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Donate and Help.jpg" width="100" height="100">
+		<h1>World Hunger: Earth’s Most Devastating Calamity</h1>
+		<a href = https://www.youtube.com/FriendsofWFP><img id = "youtube" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Youtube.png" width = "30" height = "30"></a>
+		<a href = https://twitter.com/NedDomingo><img id = "twitter" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Twitter.png" width = "30" height = "30"></a>
+		<a href = https://www.facebook.com/mrbeananimatedseries/><img id = "facebook" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Facebook.png" width = "30" height = "30"></a>
+		<p>Follow:</p>
+	</header>
+	<hr>
+	<article>
+		<center>
+			<h2>Possible Solutions to World Hunger</h2>
+			<img class = "imgborder2" src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Fruits.jpg" width = 200px height = 133px>
+		</center>
+		<hr>
+		<p>
+			Now that you know how devastating world hunger is, you probably want to know how to stop it. The following is a few ways you 
+			can feed people.
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Food Waste.jpg" width = 254px height = 169px>
+			</center>
+			1. Reducing Food Waste: The world has enough food to sustain everyone on Earth. The problem is that a third of that 
+			produced food is wasted and thrown away. All that food would've been enough to feed over 2 billion people, twice the 
+			number of people who are starving in the world. Not just that, when all the wasted food rots, it emits 3 billion tons of 
+			greenhouse gases that damage the environment each year, making it one of the largest contributions to climate change and 
+			global warming. According to multiple programs dedicated to solving world hunger, if we stop wasting food completely, 
+			over 2 billion starving people will be fed and healthy. This can also lead to some benefits for the environment because 
+			as you know, climate change can have some devastating effects to evrything. Since wasted food is one of its largest 
+			contributions, if we put an end to that, it would be a huge step in stopping climate change.
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Food Donation.jpg" width = 204px height = 136px>
+			</center>
+			2. Donation: People go hungry because of either poverty, or the lack of resources to get food for themselves. Because of 
+			this, they need a helping hand to get the food that they desperately need. You can be that helping hand by donating money 
+			or food directly to the poor or organizations who are helping to feed the poor. The poor can use that money and food to 
+			sustain themselves and fill their empty stomachs.
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Equality.jpg" width = 200px height = 134px>
+			</center>
+			3. Equality: People sometimes discriminate others because of their gender, race, skin color, etc. and don't give the 
+			food or any kind of help. Some people think another group of people are inferior and want to do bad things to them just 
+			because they're not like them. Best thing we can do about this problem is spread awarenesss about the inequalities in 
+			society and inspire equality among them. This will encourage the youth to fight for equal rights and help others.
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Community Programs.jpg" width = 204px height = 136px>
+			</center>
+			4. Programs: Most of humanity have good souls and have good intentions. These people come together and make programs to 
+			help and inspire others to make the community a better place. There are programs dedicated to feeding the hungry and 
+			stopping world hunger. Obviously, they cannot stop world hunger alone, but they can certainly feed some of the hungry. 
+			While you do not need to support these programs, it would be great if you hear their messages so you know what is going 
+			on in the world and you will help the hungry in your own way.
+		</p>
+	</article>	
+	<nav>
+		<ul>
+			<li><a class = "behind" href = "index.html">Introduction</a></li>
+			<li><a class = "behind" href = "Causes.html">Causes of World Hunger</a></li>
+			<li><a class = "behind" href = "Effects.html">Effects of World Hunger</a></li>
+			<li>Possible Solutions</li>
+			<li><a href = "Donation Page.html">Donations</a></li>
+		</ul>
+	</nav>
+	<aside>
+		<ul>
+			<p>Sources: </p>
+			<li>Logo: <a href = "https://unsplash.com/s/photos/charity">https://unsplash.com/s/photos/charity</a> </li>
+			<li>Waste Food: <a href = "https://unsplash.com/s/photos/food-waste">https://unsplash.com/s/photos/food-waste</a> </li>
+			<li>Food Donation: <a href = "https://www.istockphoto.com/search/2/image?phrase=food+donation+kids">https://www.istockphoto.com/search/2/image?phrase=food+donation+kids</a> </li>
+			<li>Equality: <a href = "https://www.dreamstime.com/photos-images/equality.html">https://www.dreamstime.com/photos-images/equality.html</a> </li>
+			<li>Programs: <a href = "https://www.istockphoto.com/search/2/image?phrase=community%20cente&servicecontext=srp-searchbar-top">https://www.istockphoto.com/search/2/image?phrase=community%20cente&servicecontext=srp-searchbar-top</a> </li>
+		</ul>
+	</aside>
+	<footer>
+		<a id = "next" href = "Donation.html">Next Page</a>
+		<a id = "previous" href = "Effects.html">Previous Page</a>
+	</footer>
+</body>
+</html>

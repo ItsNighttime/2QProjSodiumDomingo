@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Effects of World Hunger</title>
+		<link rel="stylesheet" href="styleforeffects.css">
+	</head>
+<body>
+	<header>
+		<img class = "imgborder" src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Donate and Help.jpg" width="100" height="100">
+		<h1>World Hunger: Earth’s Most Devastating Calamity</h1>
+		<a href = https://www.youtube.com/FriendsofWFP><img id = "youtube" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Youtube.png" width = "30" height = "30"></a>
+		<a href = https://twitter.com/NedDomingo><img id = "twitter" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Twitter.png" width = "30" height = "30"></a>
+		<a href = https://www.facebook.com/mrbeananimatedseries/><img id = "facebook" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Facebook.png" width = "30" height = "30"></a>
+		<p>Follow:</p>
+	</header>
+	<hr>
+	<article>
+		<center>
+			<h2>Effects of World Hunger</h2>
+			<img class = "imgborder2" src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Hunger.jpg" width="200" height="133">
+		</center>
+		<hr>
+		<p>Now that you know the causes of world hunger, let's take a look at the effects.
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Desperation.jpg" width = 240px height = 158px>
+			</center>
+			1. Desperation: Hunger can cause a lot of people to get desperate for food or money. Some people will resort to violence 
+			and crimes and even selling their body just to get some money and food. This may seem absurd to some of you but it's true.
+			People who are truly desperate for food will do anything to get it for them or their families. <br>
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Malnutrition.jpg" width = 204px height = 111px>
+			</center>
+			2. Malnutrition: As you know, food is one of the main sources of the vitamins and minerals your body needs to stay 
+			healthy. People who are able to eat a regular diet daily are healthy and have a strong body. However, people who are not 
+			able to eat regularly are malnourished and have a weak body. Since there is no nutrients in the bodies of the hungry, 
+			their bodies suffer from reduced muscle and tissue mass, making them extremely underweight, weak and brittle. 
+			Because of the lack of nutrients, their immune systems are weak and they are more prone to certain diseases and illnesses,
+			especially breathing problems. <br>
+			<p class = distance></p>
+			3. Lack of weight: Since they have no food to sustain themselves, the nutrients needed to keep your body strong such as
+			carbohydrates, protein, and calories are deprived from their bodies. The lack of food causes them to lose weight and body 
+			fat, making them skinny and underweight. There's nothing necessarily wrong with being underweight as long as you eat 
+			healthy and regularly. However, if you don't, your body will be very weak and you will be prone to diseases such as 
+			osteoporosis, and anemia. <br>
+			<center>
+				<img src="C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Death.jpg" width = 254px height = 169px>
+			</center>
+			4. Death: This might be the saddest and most devastating effect of hunger. Sadly, people die because of the malnutrition 
+			and hunger they suffer. If you don't eat for a long period of time, your body will eat up the fat, protein storages, and 
+			muscles in your body, including the heart muscle. Once all those nutrients have been consumed by your body, your heart 
+			finally stops, bringing your life to an end. <br>
+		</p>
+	</article>
+	<nav>
+		<ul>
+			<li><a class = "behind" href = "index.html">Introduction</a></li>
+			<li><a class = "behind" href = "Causes.html">Causes of World Hunger</a></li>
+			<li>Effects of World Hunger</li>
+			<li><a href = "Possible Solutions.html">Possible Solutions</a></li>
+			<li><a href = "Donation Page.html">Donations</a></li>
+		</ul>
+	</nav>
+	<aside>
+		<ul>
+			<p>Sources: </p>
+			<li>Logo: <a href = "https://unsplash.com/s/photos/charity">https://unsplash.com/s/photos/charity</a> </li>
+			<li>Bowl: <a href = "https://www.dreamstime.com/photos-images/hunger.html">https://www.dreamstime.com/photos-images/hunger.html</a> </li>
+			<li>Feet: <a href = "https://pixabay.com/images/search/desperate/">https://pixabay.com/images/search/desperate/</a> </li>
+			<li>Malnutrition: <a href = "https://www.istockphoto.com/search/2/image?phrase=malnutrition">https://www.istockphoto.com/search/2/image?phrase=malnutrition</a> </li>
+			<li>Death: <a href = "https://unsplash.com/s/photos/death">https://unsplash.com/s/photos/death</a> </li>
+		</ul>
+	</aside>
+	<footer>
+		<a id = "next" href = "Possible Solutions.html">Next Page</a>
+		<a id = "previous" href = "Causes.html">Previous Page</a>
+	</footer>
+</body>
+</html>

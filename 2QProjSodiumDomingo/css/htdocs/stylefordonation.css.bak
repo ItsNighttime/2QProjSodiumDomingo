@@ -1,0 +1,85 @@
+body {
+	background-color: green;
+	font-family: Arial;
+	font-size: 20px;
+}
+nav {
+	position: absolute;
+	background-color: rgb(0, 168, 243);
+	width: 487px;
+	border: 3px solid black;
+	bottom: 10px;
+	left: 10px;
+	border-radius: 20px;
+}
+footer {
+	background-color: rgb(0, 168, 243);
+	border: 3px solid black;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	width: 150px;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 20px;
+}
+#youtube{
+	position: absolute;
+	top: 150px;
+	right: 20px;
+}
+#twitter{
+	position: absolute;
+	top: 150px;
+	right: 93px;
+}
+#facebook{
+	position: absolute;
+	top: 150px;
+	right: 166px;
+}
+#youtube:hover{
+	width: 50px;
+	height: 50px;
+	top: 130px;
+	right: 10px;
+}
+#twitter:hover{
+	width: 50px;
+	height: 50px;
+	top: 130px;
+	right: 83px;
+}
+#facebook:hover{
+	width: 50px;
+	height: 50px;
+	top: 130px;
+	right: 153px;
+}
+header > p{
+	position: absolute;
+	font-size: 20px;
+	font-family: Arial;
+	top: 130px;
+	right: 210px;
+}
+li a:link, footer a:link{
+    display: block;
+    color: black;
+    padding: 0px;
+    text-decoration: none;
+}
+li a:visited, footer a:visited{
+    color: black;
+}
+li a:hover, footer a:hover{
+    color: white;
+	transform: skewX(10deg);
+}
+li a:active, footer a:active{
+    color: rgb(0, 6, 124);
+	transform: skewX(10deg);
+}
+header > img{
+	border: 3px solid black;
+}

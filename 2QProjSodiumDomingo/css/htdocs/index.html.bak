@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Introduction</title>
+		<link rel="stylesheet" href="styleforintro.css"
+	</head>
+<body>
+	<header>
+		<img class = "imgborder" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Donate and Help.jpg" width="100" height="100">
+		<h1>World Hunger: Earth’s Most Devastating Calamity</h1>
+		<a href = https://www.youtube.com/FriendsofWFP><img id = "youtube" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Youtube.png" width = "30" height = "30"></a>
+		<a href = https://twitter.com/NedDomingo><img id = "twitter" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Twitter.png" width = "30" height = "30"></a>
+		<a href = https://www.facebook.com/mrbeananimatedseries/><img id = "facebook" src = "C:\Users\ned\Documents\2QProjSodiumDomingo\css\htdocs\images\Facebook.png" width = "30" height = "30"></a>
+		<p>Follow:</p>
+	</header>
+	<hr>
+	<article>
+		<h2>Introduction</h2>
+		<p>
+			World Hunger is a devastating global issue where millions of people starve. Because of this, millions of people have met an 
+			agonizing demise. This doesn't only mean lack of food, it also means lack of water, shelter, and other needs. This website was made specifically to spread awareness of this global 
+			issue and solve it. To learn more, click the "Next page" in the bottom right.
+		</p>
+	</article>
+	<nav>
+		<ul>
+			<li>Introduction</li>
+			<li><a href = "Causes.html">Causes of World Hunger</a></li>
+			<li><a href = "Effects.html">Effects of World Hunger</a></li>
+			<li><a href = "Possible Solutions.html">Possible Solutions</a></li>
+			<li><a href = "Donation.html">Donations</a></li>
+		</ul>
+	</nav>
+	<aside>
+		<ul>
+			<p>Sources: <p>
+			<li>Logo: <a href = "https://unsplash.com/s/photos/charity">https://unsplash.com/s/photos/charity</a></li>
+		</ul>
+	</aside>
+	<footer>
+		<a href = "Causes.html">Next Page</a>
+	</footer>
+</body>
+</html>
